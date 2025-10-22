@@ -36,6 +36,6 @@ Feel free to connect or reach out:
 - GitHub: You're already here 👋
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevKichi&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deviryx&show_icons=true&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com?user=deviryx&theme=tokyonight" />
 </p>
